@@ -1,0 +1,24 @@
+{
+  "name": "graphql-tuto",
+  "version": "1.0.0",
+  "description": "Tutorial on GraphQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandine-perichon/graphQL-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandine-perichon/graphQL-tutorial/issues"
+  },
+  "homepage": "https://github.com/amandine-perichon/graphQL-tutorial#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.5.4",
+    "graphql": "^0.7.0"
+  }
+}
